@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+  <meta charset="UTF-8">
+  <title>मराठी प्रोग्रॅमिंग Compiler</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>मराठी Compiler - Omkar6</h1>
+  <textarea id="code" placeholder="इथे मराठी कोड लिहा..."></textarea>
+  <button onclick="runCode()">चालवा</button>
+  <pre id="output"></pre>
+
+  <script src="script.js"></script>
+</body>
+</html>
